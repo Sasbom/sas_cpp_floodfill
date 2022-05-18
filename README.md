@@ -5,7 +5,7 @@ It'll first ask you for 2 input numbers, seperated by a comma. do not include sp
 Then, it'll perform floodfill on image.txt, with whatever number it landed on.
 
 Sample output:
-
+```
 Sample coordinate, e.g. 1,2: 4,5
 [4 , 5 ]
 'image' to fill, starting at [4 , 5 ]
@@ -29,4 +29,4 @@ Sample coordinate, e.g. 1,2: 4,5
 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 0
 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 4 4 4 4 4
 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
- 
+```
